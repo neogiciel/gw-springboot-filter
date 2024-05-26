@@ -1,7 +1,6 @@
 ## <h1>Gateway Filter Spring Boot</h1>
 ***
 <img src="https://blog.mossroy.fr/wp-content/uploads/2019/09/spring-boot-logo.png" alt="drawing" height="280px"/>
-![Sans titre](https://github.com/neogiciel/gw-springboot-filter/assets/123723616/955da01e-2029-4013-a4ad-fbdcd72d4b33)
 
 ## Informations Générales
 ***
